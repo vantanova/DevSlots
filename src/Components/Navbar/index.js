@@ -40,7 +40,7 @@ function Navbar() {
     <div className="Navbar">
       <Dropdown trigger={"click"} overlay={menu}>
         <Button type="text" className="hamburger">
-          <MenuOutlined style={{ color: "#fff", fontSize: "2rem" }} />
+          <MenuOutlined style={{ color: "#d9d9d9", fontSize: "2rem" }} />
         </Button>
       </Dropdown>
     </div>

@@ -1,9 +1,10 @@
 import "./Home.css";
+import Header from "./Header/index";
 
 function Home() {
   return (
     <div className="Home">
-      <p>Hello</p>
+      <Header />
     </div>
   );
 }
