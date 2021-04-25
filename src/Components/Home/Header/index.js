@@ -3,7 +3,7 @@ import "./Header.css";
 function Header() {
   return (
     <div className="Header">
-      <p>Hello</p>
+      <h1>Welcome to DevSlots!</h1>
     </div>
   );
 }
